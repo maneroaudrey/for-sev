@@ -134,7 +134,7 @@
   <p><em>“One Only” – Pamungkas</em></p>
 </div>
 
-    <div class="secret" id="secretMessage">
+<div class="secret" id="secretMessage">
   💞 <strong>For Sev Only:</strong>
   <p>
     I am so sure about you.<br>
